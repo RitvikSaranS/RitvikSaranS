@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritvik Saran S</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-- 🌱 I’m currently learning **web development.**
+- 🌱 I’m currently learning **Java**
 
-- 📝 I regularly write articles on [https://mathemagicspuzzles.quora.com/](https://mathemagicspuzzles.quora.com/)
+- 📝 I regularly write articles on [Mathemagics and Puzzles](https://mathemagicspuzzles.quora.com/) and [Java Mastery](https://javamastery.quora.com/)
 
 - 📫 How to reach me **codebyritvik@gmail.com**
 
