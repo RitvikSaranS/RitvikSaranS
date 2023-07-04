@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritviksarans" alt="ritviksarans" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently a **Full Stack Developer**
 
 - 📝 I regularly write articles on [Hashnode](https://codebyritvik.hashnode.dev/) and [Medium](https://medium.com/@codebyritvik)
 
