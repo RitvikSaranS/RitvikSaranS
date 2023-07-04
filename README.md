@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Ritvik-Saran-S](https://www.quora.com/profile/Ritvik-Saran-S)
+- 📝 I regularly write articles on [Hashnode](https://codebyritvik.hashnode.dev/) and [Medium](https://medium.com/@codebyritvik)
 
 - 📫 How to reach me **codebyritvik@gmail.com**
 
